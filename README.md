@@ -1,5 +1,5 @@
 
-![Header(github-header-image./png)
+[Header(github-header-image./png)
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -42,10 +42,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
