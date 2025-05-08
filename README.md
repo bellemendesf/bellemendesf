@@ -1,6 +1,4 @@
-
-[Header(github-header-image./png)
-
+![github-header-image](https://github.com/user-attachments/assets/dcfb7a30-49d5-425c-824b-fa733f9e2487)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
