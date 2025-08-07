@@ -7,7 +7,7 @@
 ### <div align="center"> Oi! Meu nome é Isabelle, tenho 18 anos e estou estudando Análise e Desenvolvimento de Sistemas.🚀💻</div>  
   
 
-- 🔭Atualmente, estou focada em aprender HTML, CSS, Banco de Dados e Inglês para me tornar uma desenvolvedora Front-End.  
+- 🔭Atualmente, estou focada em aprender HTML, CSS, Javascript, Banco de Dados e Inglês para me tornar uma desenvolvedora Front-End.  
   
 
 - 🌺 Sempre em busca de novos aprendizados e desafios!   
